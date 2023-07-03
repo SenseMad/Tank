@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tank
+  - Enemy
+  - Bullet
+  - Pickup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 534118401
+    locked: 0
+  - name: Tank
+    uniqueID: 436974855
+    locked: 0
+  - name: Bullet
+    uniqueID: 1608645345
+    locked: 0
+  - name: UnbreakableObstacles
+    uniqueID: 2340201727
+    locked: 0
+  - name: Effect
+    uniqueID: 4091646735
+    locked: 0
+  - name: Box
+    uniqueID: 102279093
+    locked: 0
+  - name: UI
+    uniqueID: 3485890755
+    locked: 0
